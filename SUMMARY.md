@@ -1,6 +1,21 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Hardware](hardware.md)
+* [Systems](systems/README.md)
+  * [Computing](systems/computing/README.md)
+    * [Single Board Computers](systems/computing/single-board-computers/README.md)
+      * [Raspberry Pi Zero W](systems/computing/single-board-computers/raspberry-pi-zero-w.md)
+      * [Raspberry Pi 3 B+](systems/computing/single-board-computers/raspberry-pi-3-b+.md)
+      * [Orange Pi Zero](systems/computing/single-board-computers/orange-pi-zero.md)
+  * [Devices](systems/devices/README.md)
+    * [Automation](systems/devices/automation/README.md)
+      * [Irrigator](systems/devices/automation/irrigator.md)
+      * [Illuminator](systems/devices/automation/illuminator.md)
+      * [Ventilator](systems/devices/automation/ventilator.md)
+    * [Monitoring](systems/devices/monitoring/README.md)
+      * [Soil Moisture Monitor](systems/devices/monitoring/soil-moisture-monitor.md)
+      * [Temperature Humidity Monitor](systems/devices/monitoring/temperature-humidity-monitor.md)
+      * [Light Monitor](systems/devices/monitoring/light-monitor.md)
 * [Software](software.md)
+* [Affiliates](affiliates.md)
 
